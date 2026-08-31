@@ -1,34 +1,48 @@
-![gific](Developer.gif)  
+# Hi there, I'm Andrija 👋
 
-# Hello, I'm Andrija 👋  
+I am a passionate developer focused on **Full-Stack Web Development** and **Python Competitive Programming / Algorithms**. I enjoy building scalable backend architectures, crafting clean web interfaces, and solving complex algorithmic challenges.
 
-I am a 13-year-old programmer passionate about coding and creating projects.  
-My main focus is Python, especially working with Tkinter for GUI applications.  
-I'm also expanding my skills in C#, Unity for game development, and Kotlin for Android apps.  
-Besides that, I enjoy web programming (HTML, CSS, JavaScript) and experimenting with web scraping in Python.  
+---
 
-## Skills and Technologies  
-- 💻 Python (Tkinter, pandas, matplotlib)  
-- 🌐 HTML, CSS, JavaScript  
-- 🕹️ Pygame  
-- 🎮 C#, Unity  
-- 🖥️ Kotlin (Android development)  
-- 🔎 Python web scraping (selenium, requests)  
+### 🛠️ Tech Stack & Skills
 
-## My Favourite Projects  
-- 📝 [Market List](https://github.com/AndrijaStosic/Market-List): An application for entering and displaying the prices of fruits and vegetables.  
-- 🎮 [Catch the Rectangles](https://github.com/AndrijaStosic/Catch-the-rectangles): A game where you need to catch the triangles in Pygame.  
-- 📊 [Total Spendings Analysis](https://github.com/AndrijaStosic/Total-spendings-analysis): A program that tracks your expenses and displays them in a Pandas table, with the option to export as a `.csv` file.  
-- 🔐 **Kotlin Login Form**: A simple and well-designed login form made in Kotlin with proper UI and validation.  
-- 📜 **Typing Game**: A fast-paced game where the player needs to type words as quickly as possible.  
-- 🎮 **Gold Seeker**: A Unity 2D game where the player collects coins in treasure chests and in nature.  
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Goals  
-- 📚 Improve my Kotlin skills and build more Android apps.  
-- 🚀 Expand my knowledge in web development.  
-- 🎮 Learn more about Unity and C#.  
-- 🔎 Work on more web scraping projects.  
-- 💡 Create more interesting and useful applications.  
+**Backend & Databases**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## Contact  
-- 📧 andrijasch11@gmail.com
+**Tools & Environment**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🚀 What I'm Currently Working On
+
+- 🌐 **Full-Stack Web Applications:** Building Node.js + Express backends with MongoDB/Mongoose and RESTful APIs.
+- 🧩 **Algorithms & Data Structures:** Solving competitive programming tasks and optimizing logic in Python.
+- 🎨 **Frontend Engineering:** Refining modern UI/UX using HTML, CSS, JavaScript, and EJS templating.
+
+---
+
+### 📈 What am I going to do next
+
+- [ ] Learn react.
+- [ ] Continue to build more web apps.
+- [ ] Learn more skills about web.
+- [ ] Focus on my thinking and problem solving.
+
+---
+
+### 📫 Get in Touch
+
+- **Email:** [andrijasch11@gmail.com](mailto:andrijasch11@gmail.com)
+- **My old web site when i started(soon updating it)** [andrija-stosic.netlify.app](https://andrija-stosic.netlify.app/)
